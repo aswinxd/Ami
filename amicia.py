@@ -1,5 +1,5 @@
 from pyrogram import Client, filters
-from pyrogram.types import Message, VoiceChatStarted, VoiceChatEnded
+from pyrogram.types import Message
 from pytgcalls import PyTgCalls, idle
 from pytgcalls.types import AudioPiped, StreamType
 from yt_dlp import YoutubeDL
